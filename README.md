@@ -1,5 +1,8 @@
 # Safe LLM Agent — Tiered Tool Permissions
 
+[![Tests](https://github.com/ankitverma1996/safe-llm-agent/actions/workflows/tests.yml/badge.svg)](https://github.com/ankitverma1996/safe-llm-agent/actions/workflows/tests.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 A small, runnable demo of a safety pattern for LLM agents that can take
 real actions: **the model can propose an action, but it can never be
 the thing that authorizes it.**
